@@ -10,12 +10,12 @@ namespace MoreNumericTypes
             double gas;
             string input;
 
-            //! Miles Driven//
+            //! Miles Driven
             Console.WriteLine("Please enter the total number of miles driven: ");
             input = Console.ReadLine();
             miles = double.Parse(input);
 
-            //! Gallons of gas consumed//
+            //! Gallons of gas consumed
             Console.WriteLine("Please enter the total amount of gas in gallons consumed: ");
             input = Console.ReadLine();
             gas = double.Parse(input);
