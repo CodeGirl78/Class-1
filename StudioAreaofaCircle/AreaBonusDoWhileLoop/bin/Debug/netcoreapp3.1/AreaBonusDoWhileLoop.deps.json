@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AreaBonusDoWhileLoop/1.0.0": {
+        "runtime": {
+          "AreaBonusDoWhileLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaBonusDoWhileLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.exe
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.deps.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\bin\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\AreaBonusDoWhileLoop\obj\Debug\netcoreapp3.1\AreaBonusDoWhileLoop.genruntimeconfig.cache

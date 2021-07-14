@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.exe
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.deps.json
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.dll
+C:\Users\msurm\csharp-practice\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.dll
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\msurm\csharp-practice\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.genruntimeconfig.cache

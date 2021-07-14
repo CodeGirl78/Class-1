@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.exe
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.deps.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\bin\Debug\netcoreapp3.1\StudioAreaofaCircle.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\StudioAreaofaCircle\obj\Debug\netcoreapp3.1\StudioAreaofaCircle.genruntimeconfig.cache

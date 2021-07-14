@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.exe
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.deps.json
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.dll
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\bin\Debug\netcoreapp3.1\MoreNumericTypes.pdb
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.dll
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.pdb
+C:\Users\msurm\csharp-practice\Class1\MoreNumericTypes\obj\Debug\netcoreapp3.1\MoreNumericTypes.genruntimeconfig.cache
