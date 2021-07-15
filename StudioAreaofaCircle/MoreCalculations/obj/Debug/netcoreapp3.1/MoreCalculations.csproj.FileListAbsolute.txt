@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.exe
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.deps.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\bin\Debug\netcoreapp3.1\MoreCalculations.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\MoreCalculations\obj\Debug\netcoreapp3.1\MoreCalculations.genruntimeconfig.cache
