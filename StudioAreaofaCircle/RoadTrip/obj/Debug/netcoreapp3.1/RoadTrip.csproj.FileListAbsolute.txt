@@ -1,0 +1,13 @@
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.exe
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.deps.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.dll
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.pdb
+C:\Users\msurm\csharp-practice\Class1\StudioAreaofaCircle\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.genruntimeconfig.cache
